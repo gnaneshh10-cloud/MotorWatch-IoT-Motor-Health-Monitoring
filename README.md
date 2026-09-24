@@ -1,7 +1,5 @@
 # MotorWatch-IoT-Motor-Health-Monitoring
 An IoT-based smart system that monitors motor health in real time using sensors, Arduino, ESP32, and Machine Learning, with a web dashboard for condition and risk monitoring.
-# MotorWatch-IoT-Motor-Health-Monitoring
-An IoT-based smart system that monitors motor health in real time using sensors, Arduino, ESP32, and Machine Learning, with a web dashboard for condition and risk monitoring.
 **MotorPulse – Smart Condition Monitoring**  
 **1\. Introduction**  
 MotorPulse is an IoT-based smart condition monitoring system designed to monitor motor health in real time. The system combines sensors, Arduino UNO, ESP32, Flask backend, and Machine Learning to identify abnormal motor conditions.  
