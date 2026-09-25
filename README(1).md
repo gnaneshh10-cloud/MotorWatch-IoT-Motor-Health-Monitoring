@@ -26,4 +26,4 @@ Random Forest Algorithm
 ![]
 ![](SCHEMATIC.png)
 **7\. Block Diagram**
-![]
+![](BLOCK.jpg)
