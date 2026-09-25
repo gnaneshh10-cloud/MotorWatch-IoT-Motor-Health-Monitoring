@@ -58,3 +58,5 @@ Future Scope
 - Mobile application
 - More sensors for advanced motor monitoring
 - Real-time alerts
+ Final Result
+![](PRODUCT.jpg)
