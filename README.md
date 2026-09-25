@@ -26,10 +26,13 @@ Machine Learning
 Random Forest Algorithm  
 **6\. Schematic diagram**  
 ![](SCHEMATIC.png)
+
+
 **7\. Block Diagram**
 ![](BLOCK.jpg)
 
-  Working
+
+Working
 
 1. Sensors collect motor and environmental data.
 2. Arduino UNO reads and processes the sensor values.
@@ -58,5 +61,8 @@ Future Scope
 - Mobile application
 - More sensors for advanced motor monitoring
 - Real-time alerts
- Final Result
+
+  
+Final Result
 ![](PRODUCT.jpg)
+
