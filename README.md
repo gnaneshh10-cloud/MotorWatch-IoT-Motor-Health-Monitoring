@@ -29,7 +29,7 @@ Random Forest Algorithm
 **7\. Block Diagram**
 ![](BLOCK.jpg)
 
-##  Working
+  Working
 
 1. Sensors collect motor and environmental data.
 2. Arduino UNO reads and processes the sensor values.
@@ -38,7 +38,7 @@ Random Forest Algorithm
 5. Random Forest analyzes the input features.
 6. The web dashboard displays the motor condition, risk, and confidence.
 
-##  Output
+Output
 
 The system provides:
 
@@ -51,7 +51,7 @@ The system provides:
 - Risk Percentage
 - Confidence Percentage
 
-## Future Scope
+Future Scope
 
 - Predictive maintenance
 - Cloud data storage
