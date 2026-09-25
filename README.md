@@ -66,7 +66,7 @@ Future Scope
 Final Result
 ![](PRODUCT.jpg)
 
-Challenge 
+Challebody {nge 
 
 The major challenges were sensor accuracy, hardware integration, real-time data transmission and Machine Learning prediction
 
@@ -1236,6 +1236,20 @@ setInterval(updateDashboard, 2000);
         document.getElementById(
             "connectionStatus"
         ).class
+
+Dashboard 
+
+![](DASHBOARD.png)
+
+Authors
+
+GNANESHH D.S
+
+DARSHAN P.T
+
+ARAVIND M
+
+HEMAVARTHIINI V.S
 
 
 
