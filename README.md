@@ -25,7 +25,7 @@ HTML/CSS
 Machine Learning  
 Random Forest Algorithm  
 **6\. Schematic diagram**  
-![](SCHEMATIC.png)
+![](DIAGRAM.png)
 
 
 **7\. Block Diagram**
