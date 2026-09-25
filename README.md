@@ -66,3 +66,10 @@ Future Scope
 Final Result
 ![](PRODUCT.jpg)
 
+Challenge 
+
+The major challenges were sensor accuracy, hardware integration, real-time data transmission and Machine Learning prediction
+
+Solution 
+
+Sensor readings-ah calibrate panni, multiple readings-ah average eduthu accurate monitoring achieve pannom.
