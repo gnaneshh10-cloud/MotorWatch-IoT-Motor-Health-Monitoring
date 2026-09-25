@@ -28,3 +28,33 @@ Random Forest Algorithm
 ![](SCHEMATIC.png)
 **7\. Block Diagram**
 ![](BLOCK.jpg)
+
+##  Working
+
+1. Sensors collect motor and environmental data.
+2. Arduino UNO reads and processes the sensor values.
+3. ESP32 receives the data and sends it through Wi-Fi.
+4. Flask backend receives and processes the data.
+5. Random Forest analyzes the input features.
+6. The web dashboard displays the motor condition, risk, and confidence.
+
+##  Output
+
+The system provides:
+
+- Motor RPM
+- Rain Status
+- Light Status
+- Alarm Status
+- Machine Condition
+- ML Prediction
+- Risk Percentage
+- Confidence Percentage
+
+## Future Scope
+
+- Predictive maintenance
+- Cloud data storage
+- Mobile application
+- More sensors for advanced motor monitoring
+- Real-time alerts
